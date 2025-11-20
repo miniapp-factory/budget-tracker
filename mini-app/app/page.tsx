@@ -3,8 +3,11 @@ import { generateMetadata } from "@/lib/farcaster-embed";
 
 export { generateMetadata };
 
+import ExpenseForm from "@/components/expense-form";
+import Dashboard from "@/components/dashboard";
+import Charts from "@/components/charts";
+
 export default function Home() {
-  // NEVER write anything here, only use this page to import components
 import ExpenseForm from "@/components/expense-form";
 import Dashboard from "@/components/dashboard";
 import Charts from "@/components/charts";
