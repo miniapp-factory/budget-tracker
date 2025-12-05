@@ -172,3 +172,9 @@
 
 # 2025-12-05 13:20:30.359252
 +apply changes
+
+# 2025-12-05 13:23:44.700077
++Create a Tic Tac Toe mini-app with two modes: Player vs Computer and Player vs Player. In Player vs Computer mode, include three AI difficulty levels: Easy (random moves), Medium (basic strategic logic), and Hard (use the Minimax algorithm or equivalent). In Player vs Player mode, allow two friends to play on the same device. The app must include a clean 3×3 grid UI, highlight turns, detect wins/draws, block invalid moves, and show results with a ‘Play Again’ button. Make the interface smooth, responsive, and suitable for a Mini-app environment.
+
+# 2025-12-05 13:23:44.700618
++Create a Tic Tac Toe mini-app with two modes: Player vs Computer and Player vs Player. In Player vs Computer mode, include three AI difficulty levels: Easy (random moves), Medium (basic strategic logic), and Hard (use the Minimax algorithm or equivalent). In Player vs Player mode, allow two friends to play on the same device. The app must include a clean 3×3 grid UI, highlight turns, detect wins/draws, block invalid moves, and show results with a ‘Play Again’ button. Make the interface smooth, responsive, and suitable for a Mini-app environment.
