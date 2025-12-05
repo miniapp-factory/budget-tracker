@@ -156,3 +156,19 @@
 
 # 2025-11-26 05:34:13.355004
 +Create a clean and minimal Budget and Expense Tracker mini-app inspired by a categorized sheet layout. The app should let users select a month and add expenses under preset categories like Gas, Food, Recreation, Personal, Home/Auto, and Misc. Each category should allow entries with date, item, and amount, displayed in a structured list just like a grid. The app should also include a summary section to record total income, total expenses, and automatically calculate the remaining balance. Add a notes section for additional reminders. Keep the interface simple, pastel-themed, and easy to use, similar to a paper-style tracker, while making it functional, responsive, and intuitive.
+
+# 2025-12-05 13:19:50.701969
++Please change the name of the App to Tic Tac Toe. And also the image of the app accordingly.
++
++Create a Tic Tac Toe mini-app with two modes: Player vs Computer and Player vs Player. In Player vs Computer mode, include three AI difficulty levels: Easy (random moves), Medium (basic strategic logic), and Hard (use the Minimax algorithm or equivalent). In Player vs Player mode, allow two friends to play on the same device. The app must include a clean 3×3 grid UI, highlight turns, detect wins/draws, block invalid moves, and show results with a ‘Play Again’ button. Make the interface smooth, responsive, and suitable for a Mini-app environment.
+
+# 2025-12-05 13:19:50.702293
++Please change the name of the App to Tic Tac Toe. And also the image of the app accordingly.
++
++Create a Tic Tac Toe mini-app with two modes: Player vs Computer and Player vs Player. In Player vs Computer mode, include three AI difficulty levels: Easy (random moves), Medium (basic strategic logic), and Hard (use the Minimax algorithm or equivalent). In Player vs Player mode, allow two friends to play on the same device. The app must include a clean 3×3 grid UI, highlight turns, detect wins/draws, block invalid moves, and show results with a ‘Play Again’ button. Make the interface smooth, responsive, and suitable for a Mini-app environment.
+
+# 2025-12-05 13:20:30.358927
++apply changes
+
+# 2025-12-05 13:20:30.359252
++apply changes
